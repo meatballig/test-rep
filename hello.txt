@@ -1,2 +1,4 @@
 print("Hello");
 print("Alex");
+print("Alla");
+print("Aloha");
