@@ -1,0 +1,115 @@
+[33mcommit e979fcbb982612a3d3f77eafc0916cd29d352e70[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: meatballig <meatballig@gmail.com>
+Date:   Thu Jun 6 17:03:19 2019 +0600
+
+    add new class
+
+[33mcommit 29d547f42ff290d3d9d26529b69fee22a0f1771e[m
+Author: meatballig <meatballig@gmail.com>
+Date:   Tue May 28 11:27:20 2019 +0600
+
+    delete test.txt
+
+[33mcommit ac7148003c3c0f6cc71f227bb41462d23257a9b5[m
+Merge: a0a505e 9716624
+Author: meatballig <meatballig@gmail.com>
+Date:   Tue May 28 11:08:00 2019 +0600
+
+    Merge branch 'feature/hello-advanced'
+
+[33mcommit 97166242ac7dce0a5ec1f01083d35bde7f3a7d50[m
+Merge: 6321d6b a0a505e
+Author: meatballig <meatballig@gmail.com>
+Date:   Tue May 28 11:07:04 2019 +0600
+
+    Merge branch 'master' into feature/hello-advanced
+    
+    # Conflicts:
+    #       hello.txt
+
+[33mcommit 6321d6bf808da87a3f63944d20b8faa3443c8db5[m
+Author: meatballig <meatballig@gmail.com>
+Date:   Tue May 28 11:01:48 2019 +0600
+
+    &
+
+[33mcommit a0a505e1ed1a6374b65a8790e945c74c5db5647a[m
+Author: meatballig <meatballig@gmail.com>
+Date:   Tue May 28 11:00:55 2019 +0600
+
+    в конце добавили ;
+
+[33mcommit 6ece392b027427afda77459902c949c77d33c110[m
+Author: meatballig <meatballig@gmail.com>
+Date:   Tue May 28 10:58:12 2019 +0600
+
+    добавлено 2 имени в hello
+
+[33mcommit 298d44c263a66bfacdd2f5958767497608db7380[m
+Merge: 0b1380a 51a16f5
+Author: meatballig <meatballig@gmail.com>
+Date:   Tue May 28 10:40:52 2019 +0600
+
+    Merge branch 'feature/goodbye'
+
+[33mcommit 51a16f57bffbafa3df9dd09c82bbded756e63053[m
+Author: meatballig <meatballig@gmail.com>
+Date:   Fri May 24 16:18:41 2019 +0600
+
+    test
+
+[33mcommit 0b1380a4f558d361432f99d9f999322509bd9ca7[m
+Author: meatballig <meatballig@gmail.com>
+Date:   Fri May 24 16:18:14 2019 +0600
+
+    sadsa
+
+[33mcommit d2c784656daa5fdc2e73fddce079c8958a839c0d[m
+Author: meatballig <meatballig@gmail.com>
+Date:   Fri May 24 16:15:28 2019 +0600
+
+    second file
+
+[33mcommit 80e08691751da7775b3bb23b087a567bc76731c9[m
+Author: meatballig <meatballig@gmail.com>
+Date:   Fri May 24 16:13:24 2019 +0600
+
+    say goodbye
+
+[33mcommit 1ca7182769badcc1f1eb2a0f5fcaae15fc3d78e0[m
+Author: meatballig <meatballig@gmail.com>
+Date:   Fri May 24 15:56:42 2019 +0600
+
+    test
+
+[33mcommit 01e798d89c41290ffb44ef7bee472ef547ddb285[m
+Author: meatballig <meatballig@gmail.com>
+Date:   Fri May 24 14:49:57 2019 +0600
+
+    добавление второй строки Alex
+
+[33mcommit 72188d783f2ecc15632aa8f54302f9ae356e0e22[m
+Author: meatballig <meatballig@gmail.com>
+Date:   Fri May 24 14:48:37 2019 +0600
+
+    Был создан файл, Hello
+
+[33mcommit cfc6321d999b2546cfa48a775e4078ee49db802f[m
+Author: meatball <meatball@mail.ru>
+Date:   Tue Jan 15 15:33:23 2019 +0600
+
+    new string file test
+
+[33mcommit 07f1eb7216ab7c03f4031494dc5ee2b0fa8c698c[m
+Author: meatballig <46699918+meatballig@users.noreply.github.com>
+Date:   Tue Jan 15 11:54:26 2019 +0600
+
+    test.txt
+    
+    frttre
+
+[33mcommit 85d130209c7bcb5d92985658546b145ec41964e3[m
+Author: meatballig <46699918+meatballig@users.noreply.github.com>
+Date:   Tue Jan 15 09:40:09 2019 +0600
+
+    Initial commit
